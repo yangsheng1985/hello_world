@@ -1,1 +1,1 @@
-this is studay rust lanuage
+学习Ruts 开发语言
